@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const path = bfs(start, end);
         if (path) {
-            resultDiv.textContent = ` Hiệp sĩ hết FA 🫂! Số bước phải đi: ${path.length - 1}`;
+            resultDiv.textContent = ` Hiệp sĩ hết FA 🫂! Số canh giờ đã đi: ${path.length - 1}`;
             resultDiv.style.color = 'green';
             visualizePath(path, start, end);
         } else {
