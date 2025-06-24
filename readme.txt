@@ -20,6 +20,6 @@ Trong quá trình làm bài Wecode môn CS112 của cô thì em có ấn tượn
 
 ## Demo
 
-Để chạy code, cô có thể xem demo trên GitHub Pages (https://ten-user.github.io/ten-repo/)
+Để chạy code, cô có thể xem demo trên GitHub Pages (https://dazkha.github.io/hanh-trinh-thoat-fa-cua-hiep-si/)
 
 Hoặc chạy thủ công bằng cách mở file index.html bằng trình duyệt.
